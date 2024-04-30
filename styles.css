@@ -1,0 +1,11 @@
+#previewContainer {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+#previewImage {
+  max-width: 100%;
+  max-height: 100%;
+}
